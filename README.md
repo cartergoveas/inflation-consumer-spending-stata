@@ -33,3 +33,10 @@ This research project aims to analyse the impact of inflation on consumers behav
 
 ### Model 4 Pooled OLS Regression
 ![](model4regression.png)
+
+## Figures
+### Figure 1 - Twoway Scatterplot between Consumer Spending and CPI
+![](figure1.png)
+
+### Figure 2 - Twoway Scatterplot between Consumer Spending and CPI Median
+![](figure2.png)
