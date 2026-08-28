@@ -51,4 +51,4 @@ coming soon...
 - The control variables (GDP growth and interest rate) were significant and therefore suggest a strong relationship with consumer spending.
 
 ## Data Sources/References
-All data sources/references can be found in the original paper: [](Carter_Goveas_Project.pdf)
+All data sources/references can be found in the original paper: [Carter Goveas Project](Carter_Goveas_Project.pdf)
