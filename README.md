@@ -45,7 +45,7 @@ This research project aims to analyse the impact of inflation on consumer behavi
 coming soon...
 
 ## Key Findings
-- There is a strong positive relationship between inflation and consumer spending. This means that as inflation increased in Canada, so did Consumer Spending.
+- There is a strong positive relationship between inflation and consumer spending. This means that as inflation increased in Canada, so did consumer spending.
 - The independent variables were shown to be significant with an exception of GDP deflator.
 - CPI was shown to be a very significant variable.
 - The control variables (GDP growth and interest rate) were significant and therefore suggest a strong relationship with consumer spending.
