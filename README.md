@@ -21,4 +21,15 @@ This research project aims to analyse the impact of inflation on consumers behav
 ### Model 4: Regressing Consumer Spending (CS) on Consumer Price Index Median (median) and GDP Growth (gdpgrowth) and Interest Rate (interestrate) and a time trend variable (time)
 ![](model4.png)
 
+## Results:
+### Model 1 - Cochrane-Orcutt Regression
+![](model1regression.png)
 
+### Model 2 - Cochrane-Orcutt Regression
+![](model2regression.png)
+
+### Model 3 - Pooled OLS Regression
+![](model3regression)
+
+### Model 4 Pooled OLS Regression
+![](model4regression)
