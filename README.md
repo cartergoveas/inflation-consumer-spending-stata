@@ -29,7 +29,7 @@ This research project aims to analyse the impact of inflation on consumers behav
 ![](model2regression.png)
 
 ### Model 3 - Pooled OLS Regression
-![](model3regression)
+![](model3regression.png)
 
 ### Model 4 Pooled OLS Regression
-![](model4regression)
+![](model4regression.png)
