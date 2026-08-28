@@ -40,3 +40,15 @@ This research project aims to analyse the impact of inflation on consumers behav
 
 ### Figure 2 - Twoway Scatterplot between Consumer Spending and CPI Median
 ![](figure2.png)
+
+## Limitations
+coming soon...
+
+## Key Findings
+- There is a strong positive relationship between inflation and consumer spending. This means that as inflation increased in Canada, so did Consumer Spending.
+- The independent variables were shown to be significant with an exception of GDP deflator.
+- CPI was shown to be a very significant variable.
+- The control variables (GDP growth and interest rate) were significant and therefore suggest a strong relationship with consumer spending.
+
+## Data Sources/References
+All data sources/references can be found in the original paper: [](Carter_Goveas_Project.pdf)
