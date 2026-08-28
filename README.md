@@ -1,6 +1,6 @@
 # What is the Impact of Inflation on Consumer Spending in Canada?
 ## Overview
-This research project aims to analyse the impact of inflation on consumers behaviour in Canada through econometric analyses using four regression models with distinct inflation indicators.
+This research project aims to analyse the impact of inflation on consumers behaviour in Canada through econometric analyses using four regression models with distinct inflation indicators. The research and analysis was conducted across a 20-year period from 2004 to 2023.
 
 ## Code
 [Download the Stata do-file](Carter-Goveas.do)
